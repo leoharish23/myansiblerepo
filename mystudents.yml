@@ -1,0 +1,25 @@
+---
+- myStudents:
+  - name: asif
+    phno: 95955
+    address: 
+      doorno: 201
+      pin: 62
+
+  - name:  
+    phno: 95955
+    address: 
+        doorno: 201
+        pin: 62
+
+  - name: asif
+    phno: 95955
+    address: 
+     doorno: 201
+     pin: 62
+
+
+
+
+
+
