@@ -7,6 +7,6 @@
        name: apache2
        state: present 
    - name: i want to git webserver
-    apt:
+    nsible.builtin.apt:
        name: git
        state: present 
